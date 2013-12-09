@@ -27,8 +27,8 @@
   <h1 class="sitename">Miao YU</h1>
   <ul class="nav pills">
   <li><a href="/">Home</a></li>
-  <li><a href="yufree.github.com/blogcn/">Chinese</a></li>
-  <li><a href="yufree.github.com/blog/">English</a></li>
+  <li><a href="/blogcn/">Chinese</a></li>
+  <li><a href="/blog/">English</a></li>
 </ul>
 {{ content }}
 <footer>
