@@ -3,7 +3,7 @@ title: Don't Panic
 layout: home
 ---
 
-Please refer to the *about* part in [English](http://yufree.github.com/blog) blog if you don‘t know Chinese.
+Please refer to the *about* part in [English](http://yufree.github.com/blog) blog if you don't know Chinese.
 
 贫道满脑不合时宜，好诙谐吐槽，浏览本博勿认真于字句之间。
 
