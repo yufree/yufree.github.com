@@ -3,7 +3,7 @@ title: Don't Panic
 layout: home
 ---
 
-Please refer to the *about* part in [English](http://yufree.github.com/blog) blog if you don't know Chinese.
+I am a Ph.D. candidate in Research Center for Eco-Environmental Sciences(RCEES), Chinese Academy of Sciences. My major is Environmental Science and I will graduate at summer of 2016. My research interests are environmental chemistry and environmental data analysis. Also I want to do postdoctoral research in any interesting issues about environmental or public health after I get my degree. Contact me via [blog](http://yufree.cn/blog) or [Email](mailto:yufree@live.cn) if you have questions about me and my current cv is [here](https://www.dropbox.com/s/9qx4ty4bq0puatw/cv.pdf?dl=0). 
 
 贫道满脑不合时宜，好诙谐吐槽，浏览本博勿认真于字句之间。
 
