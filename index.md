@@ -17,4 +17,4 @@ I am a Ph.D. candidate in Research Center for Eco-Environmental Sciences(RCEES),
 
 做会议演讲总感时间紧迫且注册费用不菲，因而拟学成后教书，一来吐槽时间充足，二来还能收费。
 
-有<span data-hk-page="current"> - </span>人到此一游。
+有<span data-hk-page="current"> - </span>人到此一游，恕不当面接待，这厢有礼了。
