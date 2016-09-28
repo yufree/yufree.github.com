@@ -136,6 +136,7 @@ nav
     margin-right:-12em;
     width:10em;
     text-align:center;
+    float:left;
 }
 nav a
 {
