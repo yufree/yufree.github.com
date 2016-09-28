@@ -5,7 +5,7 @@ layout: home
 
 I am a Postdoctoral Fellow in [Prof. Pawliszyn's group](https://uwaterloo.ca/pawliszyn-group/). My research interests are environmental chemistry and environmental data analysis related to public health. Contact me via [blog](http://yufree.cn/blog) or [Email](mailto:yufree@live.cn) if you have questions about me and my current cv is [here](https://www.dropbox.com/s/9qx4ty4bq0puatw/cv.pdf?dl=0). 
 
-贫道满脑不合时宜，好诙谐吐槽，浏览本博勿认真于字句之间。
+贫道满脑不合时宜，好诙谐吐槽，浏览[本博](http://yufree.cn/blogcn)勿认真于字句之间。
 
 现以博后身份修行于枫叶国水卢村办大学。
 
