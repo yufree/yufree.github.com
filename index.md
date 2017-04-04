@@ -18,3 +18,5 @@ I am a Postdoctoral Fellow in [Prof. Pawliszyn's group](https://uwaterloo.ca/paw
 做会议演讲总感时间紧迫且注册费用不菲，因而拟学成后教书，一来吐槽时间充足，二来还能收费。
 
 有<span data-hk-page="current"> - </span>人到此一游，恕不当面接待，欢迎[联系](mailto:yufree@live.cn)。
+
+目前网站已经移到 https://yufree.cn 欢迎访问。
